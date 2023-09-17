@@ -12,5 +12,5 @@
       state: present
    - name: "ensure Imran user exists"
      user:
-       name: Imran
+       name: imran
        state: present
